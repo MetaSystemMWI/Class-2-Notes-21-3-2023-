@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>23/3/2023</title>
+    <style>
+        a{
+            float: right;
+            width: 42px;
+            height: 42px;
+        }
+    </style>
+</head>
+<body>
+    <!-- anchar tag -->
+    <!-- png: .png, 
+    gif : .gif,
+    ico: .ico, .cur
+    jpeg: .jpg, jpeg, .jfif, .pjp
+    apng .apng
+    svg .svg
+    <a href="12.jpeg">hello</a> -->
+    <!-- <img src="https://th.bing.com/th/id/OIP.WyRo76M67dnLKfqQ-iCqOQAAAA?pid=ImgDet&w=300&h=300&rs=1" alt="Server Error"> -->
+    <!-- headings h1-h6
+    <h1>heading</h1>
+    <h6>heading-6</h6>
+     paragraph ctrl+/ --> 
+    <!-- <p>Lorem ipsum <br>dolor sit amet.</p> -->
+
+    <!-- Text formatting -->
+
+    <!-- <p>Lorem <b><em>ipsum dolor</em></b> sit amet.</p> -->
+    <!-- <p>Lorem ipsum <strong><i>dolor sit</i></strong> amet.</p> -->
+
+
+    <!-- <p>Lorem ipsum dolor sit amet.</p>
+    <p><small>Lorem ipsum dolor sit amet.</small></p> -->
+
+    <!-- <p>Lorem <mark>dolor sit amet.</mark> </p>
+
+    <p>Lorem ipsum dolor sit <del>dear.</del> 
+        <ins>amet.</ins></p> -->
+
+    <!-- <p>H<sub>2</sub>O</p>
+    
+    <p>x<sup>3</sup></p> --> 
+
+    <!-- <p>Here is a quote form website</p>
+    <blockquote>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis molestiae id, veniam natus repellat animi soluta quia, ullam aliquam odio corporis ratione laudantium vero totam similique numquam dolor, provident maxime.
+    </blockquote> -->
+
+    <!-- <q>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, iusto impedit repellat molestias corrupti suscipit dolorum vero sed necessitatibus a blanditiis alias iste dolorem velit tempora rerum, nam, doloremque vitae.
+    </q>
+
+    <cite>Lorem, ipsum dolor.</cite> -->
+
+    
+</body>
+</html>
